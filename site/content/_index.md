@@ -1,7 +1,7 @@
 ---
 title: MODERN EVANGELISM
 subtitle: Support sustainable farming while enjoying a cup
-image: img/with-father.jpg
+image: https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?cs=srgb&dl=pexels-pixabay-60597.jpg&fm=jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
